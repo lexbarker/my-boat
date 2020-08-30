@@ -9,7 +9,7 @@ Data shall be as JSON
 {
 	name: str,
 	class: str,
-	sailNumber: int
+	sailNumber: int,
 	pyNum: int,
 	helm: str,
 	crew: str,
