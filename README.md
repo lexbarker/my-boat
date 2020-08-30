@@ -5,7 +5,7 @@ Enables a racer to create a boat/crew configuration for use by the other apps in
 ## Boat Data
 
 Data shall be as JSON
-
+```javascript
 {
 	name: str,
 	class: str,
@@ -15,3 +15,4 @@ Data shall be as JSON
 	crew: str,
 	clubId: int,
 }
+```
