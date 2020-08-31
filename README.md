@@ -1,6 +1,6 @@
-# my-boat
+# Race-Boat
 
-Enables a racer to create a boat/crew configuration for use by the other apps in the suite. Each club member can create multiple boat entries.
+Enables a competitor to create a boat/crew configuration known as boat, for use by the other apps in the suite. Each competitor can create multiple boat entries.
 
 ## Boat Data
 
