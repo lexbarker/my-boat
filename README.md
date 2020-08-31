@@ -8,6 +8,7 @@ Data shall be as JSON
 ```javascript
 {
 	name: str,
+	boat: str,
 	class: str,
 	sailNumber: int,
 	pyNum: int,
